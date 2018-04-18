@@ -1,0 +1,23 @@
+Use this API:
+https://market.mashape.com/marcalencc/metacritic
+
+Scrape cinematic.asia with:
+- cheerio
+- request
+https://scotch.io/tutorials/scraping-the-web-with-node-js
+
+Create simple table:
+<tr>
+  <td>
+    Title
+  </td>
+  <td>
+    Metacritic score
+  </td>
+  <td>
+    Rotten Tomatoes score
+  </td>
+  <td>
+    Link to Cinematic page
+  </td>
+</tr>
